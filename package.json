@@ -1,6 +1,6 @@
 {
   "name": "express-status-error",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Send JavaScript Errors in json form back to user in express",
   "main": "index.js",
   "scripts": {

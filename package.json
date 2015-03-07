@@ -1,0 +1,17 @@
+{
+  "name": "express-status-error",
+  "version": "0.0.1",
+  "description": "Send JavaScript Errors in json form back to user in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "status",
+    "errors",
+    "json"
+  ],
+  "author": "Darren Labithiotis",
+  "license": "MIT"
+}

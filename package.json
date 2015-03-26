@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/labithiotis/express-status-error"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labithiotis/express-status-error"
   },
   "keywords": [
     "express",
@@ -17,5 +17,8 @@
     "json"
   ],
   "author": "Darren Labithiotis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "status-codes": "0.0.1"
+  }
 }
